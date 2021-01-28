@@ -1,2 +1,2 @@
-## MyFirstApp##
-###To Build a Basic Hello World! App###
+## MyFirstApp
+To Build a Basic Hello World! App
